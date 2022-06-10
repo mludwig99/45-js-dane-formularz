@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-size: 25px;
+}
+input{
+    font-size: 22px;
+}
+#container{
+
+    background-color: rgb(218, 227, 227);
+    width: 60vw;
+    height: 20vh;
+    margin: auto;
+}
+button{
+    margin: 25px;
+}
+p:nth-of-type(1n+2){
+    color:brown;
+    display: inline;
+
+}
